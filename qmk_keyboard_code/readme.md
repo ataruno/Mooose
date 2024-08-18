@@ -6,3 +6,9 @@ Keyboard Maintainer: [ataruno](https://github.com/ataruno)
 * Supports a 55mm large ball
 * Split design (left and right halves)
 * 70 keys
+
+## Where to Buy
+Comming soon
+
+## Build Guide
+Comming soon
