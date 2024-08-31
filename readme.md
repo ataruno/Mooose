@@ -10,7 +10,7 @@ Keyboard Maintainer: [ataruno](https://github.com/ataruno)
 * 70 keys  
 
 ## Where to Buy
-Comming soon
+Booth：[自作キーボード”Mooose”](https://ataruno.booth.pm/items/5795449)
 
 ## Build Guide
-Comming soon
+[ビルドガイドリンク](https://github.com/ataruno/Mooose/blob/main/readme.md)
