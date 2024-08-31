@@ -13,4 +13,4 @@ Keyboard Maintainer: [ataruno](https://github.com/ataruno)
 Booth：[自作キーボード”Mooose”](https://ataruno.booth.pm/items/5795449)
 
 ## Build Guide
-[ビルドガイドリンク](https://github.com/ataruno/Mooose/blob/main/readme.md)
+[ビルドガイドリンク](https://github.com/ataruno/Mooose/blob/main/build_guide/build_guide.md)
