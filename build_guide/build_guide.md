@@ -1,4 +1,4 @@
-# A PIECE OF KEYBOARDのビルドガイド
+# Moooseのビルドガイド
 
 - [キット内容](#キット内容)
 - [ご自身で手配いただくもの](#ご自身で手配いただくもの)
@@ -22,7 +22,7 @@
 | トラボケース(レザー) | 1個         |
 | ネジ                 | ＊個        |
 
-![ ]()
+![ ](https://github.com/ataruno/Mooose/blob/main/build_guide/build_guide_image_hard/01_%E3%82%AD%E3%83%83%E3%83%88%E5%86%85%E5%AE%B9_%E3%82%B1%E3%83%BC%E3%82%B9.jpg)
 
 ### 部品関係
 | 部品関係       | 個数        |
@@ -71,7 +71,7 @@
 Githubにあるhexファイルをダウンロードしてください。
 [hexファイル(Remap)](https://remap-keys.app/catalog/MlyqSV68nIYDRLw4srxW/firmware)
 
-![ ]()
+![ ](https://github.com/ataruno/Mooose/blob/main/build_guide/build_guide_image_remap/52_hex%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB%E3%81%AE%E3%83%80%E3%82%A6%E3%83%B3%E3%83%AD%E3%83%BC%E3%83%89.jpg)
 
 ### hexファイルの書き込み
 以下ではRemapでのプログラム書き込みを説明します。  
@@ -79,15 +79,15 @@ Githubにあるhexファイルをダウンロードしてください。
 (ブラウザはChrome、Edgeで書き込みできることを確認済です。)  
 
 Remap右上のアイコンをクリックしてください。  
-![ ]()
+![ ](https://github.com/ataruno/Mooose/blob/main/build_guide/build_guide_image_remap/53_hex%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB%E3%81%AE%E6%9B%B8%E3%81%8D%E8%BE%BC%E3%81%BF1.jpg)
 
 "Upload Firmware"のポップアップがでます。  
 先ほどダウンロードしたhexファイルをドラッグ・アンド・ドロップしてください。  
-![ ]()
+![ ](https://github.com/ataruno/Mooose/blob/main/build_guide/build_guide_image_remap/53_hex%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB%E3%81%AE%E6%9B%B8%E3%81%8D%E8%BE%BC%E3%81%BF2.jpg)
 
 キーボードとPCをUSBケーブルで接続してください。  
 Bootloaderはcaterinaを選択し、FLASHをクリック。
-![ ]()
+![ ](https://github.com/ataruno/Mooose/blob/main/build_guide/build_guide_image_remap/53_hex%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB%E3%81%AE%E6%9B%B8%E3%81%8D%E8%BE%BC%E3%81%BF3.jpg)
 
 シリアルポートへの接続要求のポップアップが出ます。  
 この状態で接続したキーボードのリセットスイッチ(promicroをリセット)を押してください。  
