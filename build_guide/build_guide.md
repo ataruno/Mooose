@@ -72,10 +72,11 @@
 ### 光学センサ付近
 光学センサ付近は、LEDがやや浮くような配置になります。  
 ![ ](https://github.com/ataruno/Mooose/blob/main/build_guide/build_guide_image_hard/Mooose_%E5%85%89%E5%AD%A6%E3%82%BB%E3%83%B3%E3%82%B5%E4%BB%98%E8%BF%911.jpg)
+LEDがセンサレンズの真ん中に来るようにしてください。  
 ![ ](https://github.com/ataruno/Mooose/blob/main/build_guide/build_guide_image_hard/Mooose_%E5%85%89%E5%AD%A6%E3%82%BB%E3%83%B3%E3%82%B5%E4%BB%98%E8%BF%912.jpg)
 
 ```
-開発小話
+『開発小話』
 Mooose、実は光学センサの位置が3か所選べます。
 ただ、対応したケースをそれぞれ頒布キットの中に含むのは途方もないので、大玉が使える位置をベースにしています。
 興味ある人は光学センサの位置変えた上で、トラボケースを自設計＆自宅の3Dプリンタ印刷したりカスタマイズしてみてください。
@@ -87,7 +88,7 @@ Mooose、実は光学センサの位置が3か所選べます。
 ![ ](https://github.com/ataruno/Mooose/blob/main/build_guide/build_guide_image_hard/Mooose_%E5%B7%A6%E6%89%8B%E3%83%AD%E3%83%BC%E3%82%BF%E3%83%AA%E3%83%BC%E3%82%A8%E3%83%B3%E3%82%B3%E3%83%BC%E3%83%80.jpg)
 
 ```
-開発小話  
+『開発小話』  
 基板上にはロータリーエンコーダを取り付ける場所が複数個存在しています。  
 これらは電気的にすべてつながっています。  
 この設計意図は好きな位置に取り付けられ鵜ようにするためです。  
