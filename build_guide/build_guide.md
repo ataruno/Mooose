@@ -43,20 +43,35 @@
 
 ## はんだ付け
 ### 裏面(はんだ付け前→はんだ付け後)
-
+左側がはんだ付け前の素の基板、右側がはんだ付け後の基板です。  
+(光学センサのはんだ付け、おおちゃくしています。)  
 ![ ](https://github.com/ataruno/Mooose/blob/main/build_guide/build_guide_image_hard/Mooose_%E3%81%AF%E3%82%93%E3%81%A0%E4%BB%98%E3%81%91.jpg)
 
-以下をはんだづけしてください。
-* ダイオード
-* ホットスワップ
-* TRRSコネクタ
-* (必要な場合、ロータリーエンコーダ)
-ダイオード→DIPスイッチ→ホットスワップ→キースイッチの順がはんだ付けしやすいです。  
-![ ]()
+はんだ付け部分がわかりやすいよう基板データの画像とPDFファイルも置いておきます。  
+右手  
+![ ](https://github.com/ataruno/Mooose/blob/main/build_guide/build_guide_image_hard/Mooose_%E3%81%AF%E3%82%93%E3%81%A0%E4%BB%98%E3%81%91_%E5%8F%B3.png)
+https://github.com/ataruno/Mooose/blob/main/build_guide/build_guide_image_hard/%E3%81%AF%E3%82%93%E3%81%A0%E4%BB%98%E3%81%91%E3%82%8F%E3%81%8B%E3%82%8A%E3%82%84%E3%81%99%E3%81%8F%E3%81%99%E3%82%8B%E7%94%A8_%E5%8F%B3.pdf
+左手  
+![ ](https://github.com/ataruno/Mooose/blob/main/build_guide/build_guide_image_hard/Mooose_%E3%81%AF%E3%82%93%E3%81%A0%E4%BB%98%E3%81%91_%E5%B7%A6.png)
+https://github.com/ataruno/Mooose/blob/main/build_guide/build_guide_image_hard/%E3%81%AF%E3%82%93%E3%81%A0%E4%BB%98%E3%81%91%E3%82%8F%E3%81%8B%E3%82%8A%E3%82%84%E3%81%99%E3%81%8F%E3%81%99%E3%82%8B%E7%94%A8_%E5%B7%A6.pdf
 
-#### ダイオードの向き
-基板の矢印の方向に、ダイオードの横線を合わせてください。  
-![ ]()
+何かの助けになるかもしれないので拡大画像おいておきます。  
+テープモッドしてたのを外したので、粘着剤がついてますが気にしないでください。  
+![ ](https://github.com/ataruno/Mooose/blob/main/build_guide/build_guide_image_hard/Mooose_%E3%81%AF%E3%82%93%E3%81%A0%E4%BB%98%E3%81%91%E6%8B%A1%E5%A4%A7_%E5%8F%B3%E4%B8%8A.jpg)
+![ ](https://github.com/ataruno/Mooose/blob/main/build_guide/build_guide_image_hard/Mooose_%E3%81%AF%E3%82%93%E3%81%A0%E4%BB%98%E3%81%91%E6%8B%A1%E5%A4%A7_%E5%8F%B3%E4%B8%8B.jpg)
+![ ](https://github.com/ataruno/Mooose/blob/main/build_guide/build_guide_image_hard/Mooose_%E3%81%AF%E3%82%93%E3%81%A0%E4%BB%98%E3%81%91%E6%8B%A1%E5%A4%A7_%E5%B7%A6%E4%B8%8A.jpg)
+![ ](https://github.com/ataruno/Mooose/blob/main/build_guide/build_guide_image_hard/Mooose_%E3%81%AF%E3%82%93%E3%81%A0%E4%BB%98%E3%81%91%E6%8B%A1%E5%A4%A7_%E5%B7%A6%E4%B8%8B.jpg)
+
+光学センサ付近は、LEDがやや浮くような配置になります。  
+![ ](https://github.com/ataruno/Mooose/blob/main/build_guide/build_guide_image_hard/Mooose_%E5%85%89%E5%AD%A6%E3%82%BB%E3%83%B3%E3%82%B5%E4%BB%98%E8%BF%911.jpg)
+![ ](https://github.com/ataruno/Mooose/blob/main/build_guide/build_guide_image_hard/Mooose_%E5%85%89%E5%AD%A6%E3%82%BB%E3%83%B3%E3%82%B5%E4%BB%98%E8%BF%912.jpg)
+
+```
+開発小話
+Mooose、実は光学センサの位置が3か所選べます。
+ただ、対応したケースをそれぞれ頒布キットの中に含むのは途方もないので、大玉が使える位置をベースにしています。
+興味ある人は光学センサの位置変えた上で、トラボケースを自設計＆自宅の3Dプリンタ印刷したりカスタマイズしてみてください。
+```
 
 ## 組み立て
 ボトムケースにはんだ付けした基板をはめます。  
