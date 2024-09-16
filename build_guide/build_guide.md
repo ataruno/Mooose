@@ -47,15 +47,20 @@
 (光学センサのはんだ付け、おおちゃくしています。)  
 ![ ](https://github.com/ataruno/Mooose/blob/main/build_guide/build_guide_image_hard/Mooose_%E3%81%AF%E3%82%93%E3%81%A0%E4%BB%98%E3%81%91.jpg)
 
+### 基板データ画像とPDF
 はんだ付け部分がわかりやすいよう基板データの画像とPDFファイルも置いておきます。  
-右手  
-![ ](https://github.com/ataruno/Mooose/blob/main/build_guide/build_guide_image_hard/Mooose_%E3%81%AF%E3%82%93%E3%81%A0%E4%BB%98%E3%81%91_%E5%8F%B3.png)
-https://github.com/ataruno/Mooose/blob/main/build_guide/build_guide_image_hard/%E3%81%AF%E3%82%93%E3%81%A0%E4%BB%98%E3%81%91%E3%82%8F%E3%81%8B%E3%82%8A%E3%82%84%E3%81%99%E3%81%8F%E3%81%99%E3%82%8B%E7%94%A8_%E5%8F%B3.pdf
-左手  
-![ ](https://github.com/ataruno/Mooose/blob/main/build_guide/build_guide_image_hard/Mooose_%E3%81%AF%E3%82%93%E3%81%A0%E4%BB%98%E3%81%91_%E5%B7%A6.png)
-https://github.com/ataruno/Mooose/blob/main/build_guide/build_guide_image_hard/%E3%81%AF%E3%82%93%E3%81%A0%E4%BB%98%E3%81%91%E3%82%8F%E3%81%8B%E3%82%8A%E3%82%84%E3%81%99%E3%81%8F%E3%81%99%E3%82%8B%E7%94%A8_%E5%B7%A6.pdf
 
-何かの助けになるかもしれないので拡大画像おいておきます。  
+#### 右手  
+![ ](https://github.com/ataruno/Mooose/blob/main/build_guide/build_guide_image_hard/Mooose_%E3%81%AF%E3%82%93%E3%81%A0%E4%BB%98%E3%81%91_%E5%8F%B3.png)
+[PDFファイルリンク](https://github.com/ataruno/Mooose/blob/main/build_guide/build_guide_image_hard/%E3%81%AF%E3%82%93%E3%81%A0%E4%BB%98%E3%81%91%E3%82%8F%E3%81%8B%E3%82%8A%E3%82%84%E3%81%99%E3%81%8F%E3%81%99%E3%82%8B%E7%94%A8_%E5%8F%B3.pdf)
+
+
+
+#### 左手  
+![ ](https://github.com/ataruno/Mooose/blob/main/build_guide/build_guide_image_hard/Mooose_%E3%81%AF%E3%82%93%E3%81%A0%E4%BB%98%E3%81%91_%E5%B7%A6.png)
+[PDFファイルリンク](https://github.com/ataruno/Mooose/blob/main/build_guide/build_guide_image_hard/%E3%81%AF%E3%82%93%E3%81%A0%E4%BB%98%E3%81%91%E3%82%8F%E3%81%8B%E3%82%8A%E3%82%84%E3%81%99%E3%81%8F%E3%81%99%E3%82%8B%E7%94%A8_%E5%B7%A6.pdf)
+
+何かの助けになるかもしれないので拡大画像もおいておきます。  
 テープモッドしてたのを外したので、粘着剤がついてますが気にしないでください。  
 ![ ](https://github.com/ataruno/Mooose/blob/main/build_guide/build_guide_image_hard/Mooose_%E3%81%AF%E3%82%93%E3%81%A0%E4%BB%98%E3%81%91%E6%8B%A1%E5%A4%A7_%E5%8F%B3%E4%B8%8A.jpg)
 ![ ](https://github.com/ataruno/Mooose/blob/main/build_guide/build_guide_image_hard/Mooose_%E3%81%AF%E3%82%93%E3%81%A0%E4%BB%98%E3%81%91%E6%8B%A1%E5%A4%A7_%E5%8F%B3%E4%B8%8B.jpg)
