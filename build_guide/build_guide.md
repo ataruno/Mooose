@@ -98,7 +98,28 @@ Mooose、実は光学センサの位置が3か所選べます。
 ```
 
 ## 組み立て
+
 ボトムケースにはんだ付けした基板をはめます。  
+マウント方法はネジ止めと耐震シートを引く方法の2種類があります。  
+ねじ止めするときは以下。
+![ ](https://github.com/ataruno/Mooose/blob/main/build_guide/build_guide_image_hard/Mooose_%E3%83%9E%E3%82%A6%E3%83%B3%E3%83%88_%E3%81%AD%E3%81%98%E6%AD%A2%E3%82%81.jpg)
+
+耐震シートを引く方法は以下。  
+耐震シートをサイズに合わせてハサミで切って貼ります。  
+![ ](https://github.com/ataruno/Mooose/blob/main/build_guide/build_guide_image_hard/Mooose_%E3%83%9E%E3%82%A6%E3%83%B3%E3%83%88_%E8%80%90%E9%9C%87%E3%82%B7%E3%83%BC%E3%83%881.jpg)
+んで、載せます。
+![ ](https://github.com/ataruno/Mooose/blob/main/build_guide/build_guide_image_hard/Mooose_%E3%83%9E%E3%82%A6%E3%83%B3%E3%83%88_%E8%80%90%E9%9C%87%E3%82%B7%E3%83%BC%E3%83%882.jpg)
+ちなみに耐震シートは100円均一とかで変えるこういうやつ。  
+![ ](https://github.com/ataruno/Mooose/blob/main/build_guide/build_guide_image_hard/Mooose_%E3%83%9E%E3%82%A6%E3%83%B3%E3%83%88_%E8%80%90%E9%9C%87%E3%82%B7%E3%83%BC%E3%83%880.jpg)
+
+ねじ止めでも耐震シート貼る方法でもマウント箇所は６か所。  
+さらに上から筐体を被せて7か所背面からねじ止めします(ボトムケースとトップケース)。  
+![ ](https://github.com/ataruno/Mooose/blob/main/build_guide/build_guide_image_hard/Mooose_%E3%83%9E%E3%82%A6%E3%83%B3%E3%83%88%E7%AE%87%E6%89%80.jpg)
+横から見るとこんな感じになります。TRRSケーブルやUSBの部分に穴が開いています。
+![ ](https://github.com/ataruno/Mooose/blob/main/build_guide/build_guide_image_hard/Mooose_%E3%83%9E%E3%82%A6%E3%83%B3%E3%83%88_%E6%A8%AA%E3%81%8B%E3%82%89.jpg)
+
+トラックボール筐体の取付は以下です。
+![ ]()
 ![ ]()
 
 ### 組み立ての完成
