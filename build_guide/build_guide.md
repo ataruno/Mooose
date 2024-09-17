@@ -118,8 +118,9 @@ Mooose、実は光学センサの位置が3か所選べます。
 横から見るとこんな感じになります。TRRSケーブルやUSBの部分に穴が開いています。
 ![ ](https://github.com/ataruno/Mooose/blob/main/build_guide/build_guide_image_hard/Mooose_%E3%83%9E%E3%82%A6%E3%83%B3%E3%83%88_%E6%A8%AA%E3%81%8B%E3%82%89.jpg)
 
-トラックボール筐体の取付は以下です。
+トラックボール筐体の取付は以下です。  
 ![ ]()
+
 ![ ]()
 
 ### 組み立ての完成
