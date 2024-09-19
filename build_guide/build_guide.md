@@ -119,9 +119,16 @@ Mooose、実は光学センサの位置が3か所選べます。
 ![ ](https://github.com/ataruno/Mooose/blob/main/build_guide/build_guide_image_hard/Mooose_%E3%83%9E%E3%82%A6%E3%83%B3%E3%83%88_%E6%A8%AA%E3%81%8B%E3%82%89.jpg)
 
 トラックボール筐体の取付は以下です。  
-![ ]()
+右手側、裏からねじ止めしています。２か所固定できれば十分かと思いますが、3か所ねじ止めしています。  
+![ ](https://github.com/ataruno/Mooose/blob/main/build_guide/build_guide_image_hard/Mooose_%E3%83%88%E3%83%A9%E3%83%9C%E7%AD%90%E4%BD%93%E3%83%99%E3%83%BC%E3%82%B9%E8%A3%8F.jpg)
 
-![ ]()
+表側はこのような感じ。  
+![ ](https://github.com/ataruno/Mooose/blob/main/build_guide/build_guide_image_hard/Mooose_%E3%83%88%E3%83%A9%E3%83%9C%E7%AD%90%E4%BD%93%E3%83%99%E3%83%BC%E3%82%B9%E8%A1%A8.jpg)
+
+トラックボールが乗る筐体部分はさらにこの上からねじ止めします。  
+こちらも穴が4か所ありますが、2か所止めれば十分止まると思います。  
+![ ](https://github.com/ataruno/Mooose/blob/main/build_guide/build_guide_image_hard/Mooose_%E3%83%88%E3%83%A9%E3%83%9C%E7%AD%90%E4%BD%931.jpg)
+![ ](https://github.com/ataruno/Mooose/blob/main/build_guide/build_guide_image_hard/Mooose_%E3%83%88%E3%83%A9%E3%83%9C%E7%AD%90%E4%BD%932.jpg)
 
 ### 組み立ての完成
 ![ ]()
