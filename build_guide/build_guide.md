@@ -175,17 +175,15 @@ Bootloaderはcaterinaを選択し、FLASHをクリック。
 
 シリアルポートへの接続要求のポップアップが出ます。  
 この状態で接続したキーボードのリセットスイッチ(promicroをリセット)を押してください。  
-![ ]()
+![ ](https://github.com/ataruno/Mooose/blob/main/build_guide/build_guide_image_remap/53_hex%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB%E3%81%AE%E6%9B%B8%E3%81%8D%E8%BE%BC%E3%81%BF4.jpg)
 
 リセットスイッチを押すと"Arduino Leonardo"と表示されます。  
-![ ]()
-
 "Arduino Leonardo"を選択し、接続をクリックしてください。  
-![ ]()
+![ ](https://github.com/ataruno/Mooose/blob/main/build_guide/build_guide_image_remap/53_hex%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB%E3%81%AE%E6%9B%B8%E3%81%8D%E8%BE%BC%E3%81%BF5.jpg)
 
 書き込みが進み"Writing the firmware finished successfuly"となれば完了です。  
 パーセンテージも100%になれば完了です。  
-![ ]()
+![ ](https://github.com/ataruno/Mooose/blob/main/build_guide/build_guide_image_remap/53_hex%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB%E3%81%AE%E6%9B%B8%E3%81%8D%E8%BE%BC%E3%81%BF6.jpg)
 
 ## キーマップのカスタマイズ設定
 キーマップの設定もRemapを活用できます。  
