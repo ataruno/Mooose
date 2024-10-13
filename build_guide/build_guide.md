@@ -7,6 +7,7 @@
 - [部品について](#部品について)
 - [プログラム書き込み(Remap)](#プログラム書き込みremap)
 - [キーマップのカスタマイズ設定](#キーマップのカスタマイズ設定)
+- [おわりに](#おわりに)
 
 ## キット内容
 以下の内容がキットに含まれます。  
@@ -190,18 +191,23 @@ Bootloaderはcaterinaを選択し、FLASHをクリック。
 キーマップの設定もRemapを活用できます。  
 
 [Remap](https://remap-keys.app/)へ接続してください。  
-![ ]()
+![ ](https://github.com/ataruno/Mooose/blob/main/build_guide/build_guide_image_remap/61_Remap%E3%81%A7%E3%81%AE%E3%82%AB%E3%82%B9%E3%82%BF%E3%83%9E%E3%82%A4%E3%82%BA.jpg)
 
 "+KEYBOARD"をクリックしてください。  
-![ ]()
+![ ](https://github.com/ataruno/Mooose/blob/main/build_guide/build_guide_image_remap/62_%E3%82%AD%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89%E3%81%AE%E9%81%B8%E6%8A%9E.jpg)
 
 接続一覧から"Mooose"を選択し、"接続"をクリックしてください。  
-![ ]()
+![ ](https://github.com/ataruno/Mooose/blob/main/build_guide/build_guide_image_remap/63_%E3%82%AD%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89%E3%81%AE%E9%81%B8%E6%8A%9E2.jpg)
 
 キーマップの編集が終わったら、右上の"flash"をクリックしてください。  
-![ ]()
+下記の例では一か所"A"に変更しています。
+![ ](https://github.com/ataruno/Mooose/blob/main/build_guide/build_guide_image_remap/64_%E3%82%AD%E3%83%BC%E3%83%9E%E3%83%83%E3%83%97%E3%81%AE%E5%A4%89%E6%9B%B41.jpg)
 
 右上が"SUCCESS"になればキーマップの書き換え完了です。  
-![ ]()
+![ ](https://github.com/ataruno/Mooose/blob/main/build_guide/build_guide_image_remap/64_%E3%82%AD%E3%83%BC%E3%83%9E%E3%83%83%E3%83%97%E3%81%AE%E5%A4%89%E6%9B%B42.jpg)
 
+## おわりに
+わからない点、不備などあればXのDMなどでご連絡ください。  
+キーボード頒布が初めてな点、家庭用の3Dプリンターでの製造であること、個人開発品である点をご了承ください。  
+よき自作キーボードライフを！  
 
