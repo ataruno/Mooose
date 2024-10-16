@@ -14,3 +14,6 @@ Booth：[自作キーボード”Mooose”](https://ataruno.booth.pm/items/57954
 
 ## Build Guide
 [ビルドガイドリンク](https://github.com/ataruno/Mooose/blob/main/build_guide/build_guide.md)
+
+ビルドガイドへのQRコード  
+[ ](https://github.com/ataruno/Mooose/blob/main/image/Mooose%E3%83%93%E3%83%AB%E3%83%89%E3%82%AC%E3%82%A4%E3%83%89%E3%81%AEQR%E3%82%B3%E3%83%BC%E3%83%89.png)
