@@ -24,6 +24,9 @@
 | トラボケース(レザー)     | 1個         |
 | ネジ                     | ＊個        |
 
+ある程度組み立てた状態で頒布します。  
+ご自身で一度ネジ止めを外してください。  
+
 ![ ](https://github.com/ataruno/Mooose/blob/main/build_guide/build_guide_image_hard/01_%E3%82%AD%E3%83%83%E3%83%88%E5%86%85%E5%AE%B9_%E3%82%B1%E3%83%BC%E3%82%B9.jpg)
 
 ### 部品関係
