@@ -145,6 +145,15 @@ Mooose、実は光学センサの位置が3か所選べます。
 ![ ](https://github.com/ataruno/Mooose/blob/main/build_guide/build_guide_image_hard/Mooose_%E3%83%9E%E3%82%A6%E3%83%B3%E3%83%88_%E6%A8%AA%E3%81%8B%E3%82%89.jpg)
 
 
+### ロータリーエンコーダノブ
+2パーツに分かれています。
+![ ](https://github.com/ataruno/Mooose/blob/main/build_guide/build_guide_image_hard/%E3%83%AD%E3%83%BC%E3%82%BF%E3%83%AA%E3%83%BC%E3%82%A8%E3%83%B3%E3%82%B3%E3%83%BC%E3%83%80%E3%83%8E%E3%83%961.jpg)
+重ねてこの辺りを接着剤などで止めてください。  
+このとき外側パーツと内側パーツの間にすきなものを挟むと、表から見たときにチラ見えします。  
+![ ](https://github.com/ataruno/Mooose/blob/main/build_guide/build_guide_image_hard/%E3%83%AD%E3%83%BC%E3%82%BF%E3%83%AA%E3%83%BC%E3%82%A8%E3%83%B3%E3%82%B3%E3%83%BC%E3%83%80%E3%83%8E%E3%83%962.jpg)
+何も挟まなくとも印刷面の違いがあって良い感じです。  
+![ ](https://github.com/ataruno/Mooose/blob/main/build_guide/build_guide_image_hard/%E3%83%AD%E3%83%BC%E3%82%BF%E3%83%AA%E3%83%BC%E3%82%A8%E3%83%B3%E3%82%B3%E3%83%BC%E3%83%80%E3%83%8E%E3%83%963.jpg)
+
 ### 組み立ての完成
 おおよそ以下の形になります。  
 ![ ](https://github.com/ataruno/Mooose/blob/main/image/Mooose_1.jpg)
