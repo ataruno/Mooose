@@ -179,7 +179,7 @@ Mooose、実は光学センサの位置が3か所選べます。
 ## プログラム書き込み(Remap)
 ### hexファイルのダウンロード
 Githubにあるhexファイルをダウンロードしてください。  
-注意：ファームウェアは右手側にUSB接続をするようになっています。  
+**注意：ファームウェアは右手側にUSB接続をするようになっています。**  
 (右手側がマスターの意味)
 [hexファイル(Remap)](https://remap-keys.app/catalog/MlyqSV68nIYDRLw4srxW/firmware)
 
