@@ -253,6 +253,9 @@ Remap上では「User**」の表示で表されます。Remapの画面で解説�
 レイヤー4  
 ![ ](https://github.com/ataruno/Mooose/blob/main/build_guide/build_guide_image_remap/User%E3%82%AD%E3%83%BC%E8%A8%AD%E5%AE%9A5.JPG)
 
+※Remap上では設定したいキーをクリック"User"と入れると候補が出てきます。  
+![ ](https://github.com/ataruno/Mooose/blob/main/build_guide/build_guide_image_remap/User%E3%82%AD%E3%83%BC%E8%A8%AD%E5%AE%9A6.png)
+
 ### Userキー一覧
 #### レイヤー＆トラボ操作系
 User1:長押しでレイヤー1になり、トラボはスクロール。(タップは“変換”)  
@@ -272,6 +275,7 @@ User12:トラボ感度のリセット。(デフォルト値へ戻る)
 User13:トラボ角度が右に増加。※USB接続が外れるとデフォルト値へ戻る  
 User14:トラボ角度が左に増加。※USB接続が外れるとデフォルト値へ戻る  
 User15:トラボ角度のリセット。(デフォルト値へ戻る)  
+
 ```
 ※変数が揮発領域にあるのでUSB接続が外れるとデフォルト値に戻ってしまう…。  
   不揮発領域に保管できればUSB接続が外れても設定を引き継がれられると思うんだが。  
