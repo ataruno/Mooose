@@ -242,13 +242,22 @@ Moooseのデフォルトファームウェアには独自の設定キー/マク�
 
 ### Remap画面で内容のご紹介
 Remap上では「User**」の表示で表されます。Remapの画面で解説をしていきます。  
+レイヤー0  
 ![ ](https://github.com/ataruno/Mooose/blob/main/build_guide/build_guide_image_remap/User%E3%82%AD%E3%83%BC%E8%A8%AD%E5%AE%9A1.JPG)
+レイヤー1  
 ![ ](https://github.com/ataruno/Mooose/blob/main/build_guide/build_guide_image_remap/User%E3%82%AD%E3%83%BC%E8%A8%AD%E5%AE%9A2.JPG)
+レイヤー2  
 ![ ](https://github.com/ataruno/Mooose/blob/main/build_guide/build_guide_image_remap/User%E3%82%AD%E3%83%BC%E8%A8%AD%E5%AE%9A3.JPG)
+レイヤー3  
 ![ ](https://github.com/ataruno/Mooose/blob/main/build_guide/build_guide_image_remap/User%E3%82%AD%E3%83%BC%E8%A8%AD%E5%AE%9A4.JPG)
+レイヤー4  
 ![ ](https://github.com/ataruno/Mooose/blob/main/build_guide/build_guide_image_remap/User%E3%82%AD%E3%83%BC%E8%A8%AD%E5%AE%9A5.JPG)
 
-
+### ソースコードの該当箇所
+プログラム的には以下のようにkeymap.cのswitch (keycode)、caseで定義しています。  
+case文の頭から順に、RemapではUser1,User2…という表示になるようです。  
+https://github.com/ataruno/Mooose/blob/main/qmk_keyboard_code/keymaps/via/keymap.c  
+![ ](https://github.com/ataruno/Mooose/blob/main/build_guide/build_guide_image_remap/%E3%82%BD%E3%83%BC%E3%82%B9%E3%82%B3%E3%83%BC%E3%83%89%E8%A9%B2%E5%BD%93%E7%AE%87%E6%89%80.png)
 
 ## おわりに
 わからない点、不備などあればXのDMなどでご連絡ください。  
