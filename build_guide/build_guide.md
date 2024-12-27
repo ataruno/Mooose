@@ -234,11 +234,19 @@ Bootloaderはcaterinaを選択し、FLASHをクリック。
 
 ## Userキーについて
 Moooseのデフォルトファームウェアには独自の設定キー/マクロキーが存在しています。  
-また、前提としてMicrosoft IMEで"変換"でIME-オン、"無変換"でIME-オフに設定しています。  
+
+### 前提
+前提としてMicrosoft IMEで"変換"でIME-オン、"無変換"でIME-オフに設定しています。  
 (全角入力/半角入力の切替を変換,無変換キーに割り当てるという意味です。)  
+![ ](https://github.com/ataruno/Mooose/blob/main/build_guide/build_guide_image_remap/IME.png)
 
-
+### Remap画面で内容のご紹介
 Remap上では「User**」の表示で表されます。Remapの画面で解説をしていきます。  
+![ ](https://github.com/ataruno/Mooose/blob/main/build_guide/build_guide_image_remap/User%E3%82%AD%E3%83%BC%E8%A8%AD%E5%AE%9A1.JPG)
+![ ](https://github.com/ataruno/Mooose/blob/main/build_guide/build_guide_image_remap/User%E3%82%AD%E3%83%BC%E8%A8%AD%E5%AE%9A2.JPG)
+![ ](https://github.com/ataruno/Mooose/blob/main/build_guide/build_guide_image_remap/User%E3%82%AD%E3%83%BC%E8%A8%AD%E5%AE%9A3.JPG)
+![ ](https://github.com/ataruno/Mooose/blob/main/build_guide/build_guide_image_remap/User%E3%82%AD%E3%83%BC%E8%A8%AD%E5%AE%9A4.JPG)
+![ ](https://github.com/ataruno/Mooose/blob/main/build_guide/build_guide_image_remap/User%E3%82%AD%E3%83%BC%E8%A8%AD%E5%AE%9A5.JPG)
 
 
 
