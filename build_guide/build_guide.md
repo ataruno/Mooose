@@ -253,9 +253,32 @@ Remap上では「User**」の表示で表されます。Remapの画面で解説�
 レイヤー4  
 ![ ](https://github.com/ataruno/Mooose/blob/main/build_guide/build_guide_image_remap/User%E3%82%AD%E3%83%BC%E8%A8%AD%E5%AE%9A5.JPG)
 
+### Userキー一覧
+#### レイヤー＆トラボ操作系
+User1:長押しでレイヤー1になり、トラボはスクロール。(タップは“変換”)  
+User2:長押しでレイヤー2になり、トラボは動きが小。(タップは“無変換”)  
+User3:長押しでレイヤー3になり、トラボはスクロール。(タップは“Esc”)  
+User4:長押しでレイヤー4になり、トラボは動きが小。(タップは“Tab”)  
+#### マクロ入力系
+User5:マクロです。無変換→’→’ ※半角入力になり、''が打たれます。プログラム書くとき楽。  
+User6:マクロです。無変換→(→)   ※半角入力になり、()が打たれます。括弧打つのが楽。  
+User7:マクロです。無変換→#      ※半角入力になり、#が打たれます。Markdown書くとき楽。  
+User8:マクロです。無変換→<→ b→r →>  ※半角入力になり、<br>が打たれます。Markdown書くとき楽。  
+User9:マクロです。無変換→*      ※半角入力になり、*が打たれます。Markdown書くとき楽。  
+#### (実験)トラボ感度や角度
+User10:トラボ感度が下がる(CPIが増える)。※USB接続が外れるとデフォルト値へ戻る  
+User11:トラボ感度が上がる(CPIが減る)。※USB接続が外れるとデフォルト値へ戻る  
+User12:トラボ感度のリセット。(デフォルト値へ戻る)  
+User13:トラボ角度が右に増加。※USB接続が外れるとデフォルト値へ戻る  
+User14:トラボ角度が左に増加。※USB接続が外れるとデフォルト値へ戻る  
+User15:トラボ角度のリセット。(デフォルト値へ戻る)  
+※変数が揮発領域にあるのでUSB接続が外れるとデフォルト値に戻ってしまう…。  
+  不揮発領域に保管できればUSB接続が外れても設定を引き継がれられると思うんだが。  
+  プログラムをどう書けばよいかあまりわかっていないので実験的に追加しています。  
+
 ### ソースコードの該当箇所
 プログラム的には以下のようにkeymap.cのswitch (keycode)、caseで定義しています。  
-case文の頭から順に、RemapではUser1,User2…という表示になるようです。  
+case文の頭から順に、RemapではUser0,User1…という表示になるようです。  
 https://github.com/ataruno/Mooose/blob/main/qmk_keyboard_code/keymaps/via/keymap.c  
 ![ ](https://github.com/ataruno/Mooose/blob/main/build_guide/build_guide_image_remap/%E3%82%BD%E3%83%BC%E3%82%B9%E3%82%B3%E3%83%BC%E3%83%89%E8%A9%B2%E5%BD%93%E7%AE%87%E6%89%80.png)
 
