@@ -125,7 +125,7 @@ Mooose、実は光学センサの位置が3か所選べます。
 
 追記：上記の小話をさらに図を使って説明します。  
 ![ ](https://github.com/ataruno/Mooose/blob/main/build_guide/build_guide_image_hard/%E3%83%AD%E3%83%BC%E3%82%BF%E3%83%AA%E3%83%BC%E3%82%A8%E3%83%B3%E3%82%B3%E3%83%BC%E3%83%80%E3%81%AE%E6%8C%99%E5%8B%95.png)
-ということです。  
+ということです。上記の図は左手側ですが、右手側も同じハード構成です。  
 
 ## 組み立て
 ### トラックボール筐体
