@@ -60,7 +60,7 @@
 | ホットスワップ(MX用)        | 70個            | https://shop.yushakobo.jp/products/a01ps?variant=37665172521121 |
 | 表面実装ダイオード(1N4148W) | 70個            | https://shop.yushakobo.jp/products/a0800di-02-100?variant=37665574420641 |
 | キースイッチ(MX互換)        | 70個            | ※ロープロファイルは未対応です。 |
-| promicro(Type-B)(※2)       | 左右それぞれ1個 | ・https://shop.yushakobo.jp/products/21<br>・https://shop.yushakobo.jp/products/pro-micro?pr_prod_strat=e5_desc&pr_rec_id=e81ebb162&pr_rec_pid=6055704756385&pr_ref_pid=6055736279201&pr_seq=uniform |
+| promicro(Type-B)(※2)       | 左右それぞれ1個 | ・https://shop.yushakobo.jp/products/21<br>・https://shop.yushakobo.jp/products/pro-micro |
 | ロータリーエンコーダ(任意)  | 任意            | https://shop.yushakobo.jp/products/3762?variant=42672275292391 |
 
 ※1:タクタイルスイッチ - 2pin 3.5x6x4.3mm  
