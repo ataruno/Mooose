@@ -187,8 +187,8 @@ Mooose、実は光学センサの位置が3か所選べます。
 ## プログラム書き込み(Remap)
 ### hexファイルのダウンロード
 Githubにあるhexファイルをダウンロードしてください。  
-**注意：ファームウェアは右手側にUSB接続をするようになっています。**  
-(右手側がマスターの意味)  
+**デフォルトのファームウェアは右手側にUSB接続をするようになっています。(右手側がマスターの意味)**  
+追記：左手側をマスターとした"Mooose_MasterLeft"というファームウェアも追加しました。  
 [hexファイル(Remap)](https://remap-keys.app/catalog/MlyqSV68nIYDRLw4srxW/firmware)
 
 ![ ](https://github.com/ataruno/Mooose/blob/main/build_guide/build_guide_image_remap/52_hex%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB%E3%81%AE%E3%83%80%E3%82%A6%E3%83%B3%E3%83%AD%E3%83%BC%E3%83%89.jpg)
