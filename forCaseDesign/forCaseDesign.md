@@ -2,7 +2,11 @@
 基板の3Dデータの一部を公開します。
 
 ## 3Dデータ(.fbx形式、.stl形式)
-https://github.com/ataruno/Mooose/tree/main/forCaseDesign/forCaseDesign_data
+[fbx形式](https://github.com/ataruno/Mooose/tree/main/forCaseDesign/forCaseDesign_data/fbx)
+
+
+[stl形式](https://github.com/ataruno/Mooose/tree/main/forCaseDesign/forCaseDesign_data/stl)
+
 
 ## 簡単な解説
 ### キースイッチの配置
