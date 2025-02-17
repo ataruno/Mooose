@@ -9,6 +9,7 @@
 - [プログラム書き込み(Remap)](#プログラム書き込みremap)
 - [キーマップのカスタマイズ設定](#キーマップのカスタマイズ設定)
 - [Userキーについて](#userキーについて)
+- [Moooseのケース設計をしてみたい方へ](#moooseのケース設計をしてみたい方へ)
 - [おわりに](#おわりに)
 
 ## ※不備情報
@@ -295,6 +296,10 @@ User15:トラボ角度のリセット。(デフォルト値へ戻る)
 case文の頭から順に、RemapではUser0,User1…という表示になるようです。  
 https://github.com/ataruno/Mooose/blob/main/qmk_keyboard_code/keymaps/via/keymap.c  
 ![ ](https://github.com/ataruno/Mooose/blob/main/build_guide/build_guide_image_remap/%E3%82%BD%E3%83%BC%E3%82%B9%E3%82%B3%E3%83%BC%E3%83%89%E8%A9%B2%E5%BD%93%E7%AE%87%E6%89%80.png)
+
+## Moooseのケース設計をしてみたい方へ
+基板の3Dデータの一部を公開しています。  
+https://github.com/ataruno/Mooose/blob/main/forCaseDesign/forCaseDesign.md
 
 ## おわりに
 わからない点、不備などあればXのDMなどでご連絡ください。  
