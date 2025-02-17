@@ -27,6 +27,7 @@
 ![ ](https://github.com/ataruno/Mooose/blob/main/forCaseDesign/forCaseDesign_image/%E3%82%B1%E3%83%BC%E3%82%B9%E8%A8%AD%E8%A8%88%E7%94%A807.png)
 
 ### 基板固定用のネジ穴
+大きい穴と小さい穴の2種類があります。  
 赤丸で囲った穴は直径5.1mm(5mmを通す想定)。黄丸で囲った穴は直径2.1mm(2mmを通す想定)。  
 ![ ](https://github.com/ataruno/Mooose/blob/main/forCaseDesign/forCaseDesign_image/%E3%82%B1%E3%83%BC%E3%82%B9%E8%A8%AD%E8%A8%88%E7%94%A804.png)
 
