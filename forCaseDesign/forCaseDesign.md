@@ -42,4 +42,6 @@ stl形式だと色情報がないため真っ白です。
 ![ ](https://github.com/ataruno/Mooose/blob/main/forCaseDesign/forCaseDesign_image/%E3%82%B1%E3%83%BC%E3%82%B9%E8%A8%AD%E8%A8%88%E7%94%A803.png)
 
 
-
+## おわりに
+ケース設計されたいかたは活用してみてください。
+以上です。
