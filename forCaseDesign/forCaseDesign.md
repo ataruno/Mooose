@@ -1,14 +1,16 @@
 # Moooseのケース設計をしてみたい方へ
-基板の3Dデータの一部を公開します。
+基板の3Dデータの一部を公開します。  
 
 ## 3Dデータ(.fbx形式、.stl形式)
-[fbx形式](https://github.com/ataruno/Mooose/tree/main/forCaseDesign/forCaseDesign_data/fbx)
+[fbx形式](https://github.com/ataruno/Mooose/blob/main/forCaseDesign/forCaseDesign_image/%E3%82%B1%E3%83%BC%E3%82%B9%E8%A8%AD%E8%A8%88%E7%94%A808.png)
 
-
-[stl形式](https://github.com/ataruno/Mooose/tree/main/forCaseDesign/forCaseDesign_data/stl)
-
+[stl形式](https://github.com/ataruno/Mooose/blob/main/forCaseDesign/forCaseDesign_image/%E3%82%B1%E3%83%BC%E3%82%B9%E8%A8%AD%E8%A8%88%E7%94%A809.png)
 
 ## 簡単な解説
+### データのダウンロード
+ダウンロードしたいデータファイルまでいき、画像赤枠の"Download raw file"をクリックするとダウンロードできます。  
+![ ](https://github.com/ataruno/Mooose/blob/main/forCaseDesign/forCaseDesign_image/%E3%82%B1%E3%83%BC%E3%82%B9%E8%A8%AD%E8%A8%88%E7%94%A810.png)
+
 ### キースイッチの配置
 左手側をモチーフに解説します。全体イメージは以下です。  
 ![ ](https://github.com/ataruno/Mooose/blob/main/forCaseDesign/forCaseDesign_image/%E3%82%B1%E3%83%BC%E3%82%B9%E8%A8%AD%E8%A8%88%E7%94%A805.png)
