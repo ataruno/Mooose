@@ -2,9 +2,11 @@
 基板の3Dデータの一部を公開します。  
 
 ## 3Dデータ(.fbx形式、.stl形式)
-[fbx形式 データ置き場リンク](https://github.com/ataruno/Mooose/blob/main/forCaseDesign/forCaseDesign_image/%E3%82%B1%E3%83%BC%E3%82%B9%E8%A8%AD%E8%A8%88%E7%94%A808.png)
+[fbx形式 データ置き場リンク](https://github.com/ataruno/Mooose/tree/main/forCaseDesign/forCaseDesign_data/fbx)
+![ ](https://github.com/ataruno/Mooose/blob/main/forCaseDesign/forCaseDesign_image/%E3%82%B1%E3%83%BC%E3%82%B9%E8%A8%AD%E8%A8%88%E7%94%A808.png)
 
-[stl形式 データ置き場リンク](https://github.com/ataruno/Mooose/blob/main/forCaseDesign/forCaseDesign_image/%E3%82%B1%E3%83%BC%E3%82%B9%E8%A8%AD%E8%A8%88%E7%94%A809.png)
+[stl形式 データ置き場リンク](https://github.com/ataruno/Mooose/tree/main/forCaseDesign/forCaseDesign_data/stl)
+![ ](https://github.com/ataruno/Mooose/blob/main/forCaseDesign/forCaseDesign_image/%E3%82%B1%E3%83%BC%E3%82%B9%E8%A8%AD%E8%A8%88%E7%94%A809.png)
 
 ## 簡単な解説
 ### データのダウンロード
