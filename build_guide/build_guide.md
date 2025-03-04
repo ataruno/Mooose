@@ -34,14 +34,13 @@
 | トラボケース(レザー)     | 1個         |
 | ネジ                     | ＊個        |
 
+追記(25/3/4)：右手側のロータリーエンコーダのノブもキット内容に含めました。  
+
 ある程度組み立てた状態で頒布します。  
 ご自身で一度ネジ止めを外してください。  
 
 ![ ](./build_guide_image_hard/01_キット内容_ケース.jpg)
 
-追記(25/3/4)：  
-現在、右手側のロータリーエンコーダのノブもキット内容に含めました。  
-![ ](./build_guide_image_hard/Mooose_right_RE.jpg)
 
 ### 部品関係
 | 部品関係                   | 個数        |
@@ -66,7 +65,7 @@
 | 表面実装ダイオード(1N4148W) | 70個            | https://shop.yushakobo.jp/products/a0800di-02-100?variant=37665574420641 |
 | キースイッチ(MX互換)        | 70個            | ※ロープロファイルは未対応です。 |
 | promicro(Type-B)(※2)       | 左右それぞれ1個 | ・https://shop.yushakobo.jp/products/21<br>or<br>・https://shop.yushakobo.jp/products/pro-micro |
-| ロータリーエンコーダ(任意)  | 任意            | https://shop.yushakobo.jp/products/3762?variant=42672275292391 |
+| ロータリーエンコーダ<br>(軸形状:Dカット)  | 任意            | https://shop.yushakobo.jp/products/3762?variant=42672275292391 |
 
 ※1:タクタイルスイッチ - 2pin 3.5x6x4.3mm  
 ※2:Type-Cは少し基板が大きいとのこと、現状のケースと干渉するためType-Bをお選びください。  
@@ -85,29 +84,43 @@
 はんだ付け部分がわかりやすいよう基板データの画像とPDFファイルも置いておきます。  
 
 #### 右手  
-![ ](https://github.com/ataruno/Mooose/blob/main/build_guide/build_guide_image_hard/Mooose_%E3%81%AF%E3%82%93%E3%81%A0%E4%BB%98%E3%81%91_%E5%8F%B3.png)
+![ ](./build_guide_image_hard/Mooose_はんだ付け_右.png)
 [PDFファイルリンク](https://github.com/ataruno/Mooose/blob/main/build_guide/build_guide_image_hard/%E3%81%AF%E3%82%93%E3%81%A0%E4%BB%98%E3%81%91%E3%82%8F%E3%81%8B%E3%82%8A%E3%82%84%E3%81%99%E3%81%8F%E3%81%99%E3%82%8B%E7%94%A8_%E5%8F%B3.pdf)
 
 #### 左手  
-![ ](https://github.com/ataruno/Mooose/blob/main/build_guide/build_guide_image_hard/Mooose_%E3%81%AF%E3%82%93%E3%81%A0%E4%BB%98%E3%81%91_%E5%B7%A6.png)
+![ ](./build_guide_image_hard/Mooose_はんだ付け_左.png)
 [PDFファイルリンク](https://github.com/ataruno/Mooose/blob/main/build_guide/build_guide_image_hard/%E3%81%AF%E3%82%93%E3%81%A0%E4%BB%98%E3%81%91%E3%82%8F%E3%81%8B%E3%82%8A%E3%82%84%E3%81%99%E3%81%8F%E3%81%99%E3%82%8B%E7%94%A8_%E5%B7%A6.pdf)
 
-何かの助けになるかもしれないので拡大画像もおいておきます。  
+### 表面実装ダイオード
+Dと書いてある部分にダイオードのはんだ付けが必要です。  
+画像中央やや右のD2部分を見るとわかるように■▷｜■とあります。  
+この棒線がある方向(画像だと右側)に、ダイオードの縦線を合わせてください。  
+画像中央やや左のD1も画像右側にダイオードの縦線が向いています。  
+![ ](./build_guide_image_hard/ダイオードの向き.jpg)
+
+### スイッチソケット
+スイッチソケットも以下のようにはんだ付けしてください。  
+画像は右手基板の裏側です。  
 テープモッドしてたのを外したので、粘着剤がついてますが気にしないでください…。  
-右上  
-![ ](https://github.com/ataruno/Mooose/blob/main/build_guide/build_guide_image_hard/Mooose_%E3%81%AF%E3%82%93%E3%81%A0%E4%BB%98%E3%81%91%E6%8B%A1%E5%A4%A7_%E5%8F%B3%E4%B8%8A.jpg)
+合わせてプロマイクロも以下のようにはめてください。  
+もちろんピンヘッダーでも接続可能ですが、何かあったときに面倒なのでコンスルー推奨です。  
+右上(プロマイクロ部分)  
+![ ](./build_guide_image_hard/Mooose_はんだ付け拡大_右上.jpg)
 右下  
-![ ](https://github.com/ataruno/Mooose/blob/main/build_guide/build_guide_image_hard/Mooose_%E3%81%AF%E3%82%93%E3%81%A0%E4%BB%98%E3%81%91%E6%8B%A1%E5%A4%A7_%E5%8F%B3%E4%B8%8B.jpg)
+![ ](./build_guide_image_hard/Mooose_はんだ付け拡大_右下.jpg)
 左上  
-![ ](https://github.com/ataruno/Mooose/blob/main/build_guide/build_guide_image_hard/Mooose_%E3%81%AF%E3%82%93%E3%81%A0%E4%BB%98%E3%81%91%E6%8B%A1%E5%A4%A7_%E5%B7%A6%E4%B8%8A.jpg)
+![ ](./build_guide_image_hard/Mooose_はんだ付け拡大_左上.jpg)
 左下  
-![ ](https://github.com/ataruno/Mooose/blob/main/build_guide/build_guide_image_hard/Mooose_%E3%81%AF%E3%82%93%E3%81%A0%E4%BB%98%E3%81%91%E6%8B%A1%E5%A4%A7_%E5%B7%A6%E4%B8%8B.jpg)
+![ ](./build_guide_image_hard/Mooose_はんだ付け拡大_左下.jpg)
+
 
 ### 光学センサ付近
+光学センサまわりの部品ははんだ付けし、動作確認した上で発送しています。  
 光学センサ付近は、LEDがやや浮くような配置になります。  
-![ ](https://github.com/ataruno/Mooose/blob/main/build_guide/build_guide_image_hard/Mooose_%E5%85%89%E5%AD%A6%E3%82%BB%E3%83%B3%E3%82%B5%E4%BB%98%E8%BF%911.jpg)
+![ ](./build_guide_image_hard/Mooose_光学センサ付近1.jpg)
 LEDがセンサレンズの真ん中に来るようにしてください。  
-![ ](https://github.com/ataruno/Mooose/blob/main/build_guide/build_guide_image_hard/Mooose_%E5%85%89%E5%AD%A6%E3%82%BB%E3%83%B3%E3%82%B5%E4%BB%98%E8%BF%912.jpg)
+![ ](./build_guide_image_hard/Mooose_光学センサ付近2.jpg)
+
 
 ```
 『開発小話』
@@ -119,11 +132,13 @@ Mooose、実は光学センサの位置が3か所選べます。
 ### ロータリーエンコーダ付近
 親指ロータリーエンコーダ付近ですが、以下のようにはんだ付けできます。  
 ロータリーエンコーダでなくスイッチでも可能です。  
+下の画像は右手基板の裏側です。  
 ![ ](./build_guide_image_hard/About_RE.jpg)
 
 光学センサと同じ位置のロータリーエンコーダ(写真は左手側基板)の取付もむちゃしています。  
 足を広げてはんだ付けしてください。ギリギリ届くはずです。  
-![ ](https://github.com/ataruno/Mooose/blob/main/build_guide/build_guide_image_hard/Mooose_%E5%B7%A6%E6%89%8B%E3%83%AD%E3%83%BC%E3%82%BF%E3%83%AA%E3%83%BC%E3%82%A8%E3%83%B3%E3%82%B3%E3%83%BC%E3%83%80.jpg)
+下の画像は左手基板の表側です。  
+![ ](./build_guide_image_hard/Mooose_左手ロータリーエンコーダ.jpg)
 
 ```
 『開発小話』  
@@ -136,28 +151,28 @@ Mooose、実は光学センサの位置が3か所選べます。
 ```
 
 追記：上記の小話をさらに図を使って説明します。  
-![ ](https://github.com/ataruno/Mooose/blob/main/build_guide/build_guide_image_hard/%E3%83%AD%E3%83%BC%E3%82%BF%E3%83%AA%E3%83%BC%E3%82%A8%E3%83%B3%E3%82%B3%E3%83%BC%E3%83%80%E3%81%AE%E6%8C%99%E5%8B%95.png)
+![ ](./build_guide_image_hard/ロータリーエンコーダの挙動.png)
 ということです。上記の図は左手側ですが、右手側も同じハード構成です。  
 
 ## 組み立て
 ### トラックボール筐体
 トラックボール筐体の取付は以下です。  
-右手側、裏からねじ止めしています。２か所固定できれば十分かと思いますが、3か所ねじ止めしています。  
-![ ](https://github.com/ataruno/Mooose/blob/main/build_guide/build_guide_image_hard/Mooose_%E3%83%88%E3%83%A9%E3%83%9C%E7%AD%90%E4%BD%93%E3%83%99%E3%83%BC%E3%82%B9%E8%A3%8F.jpg)
+右手側、裏からねじ止めしています。２か所固定できれば十分かと思います。  
+![ ](./build_guide_image_hard/Mooose_トラボ筐体ベース裏.jpg)
 
 表側はこのような感じ。  
-![ ](https://github.com/ataruno/Mooose/blob/main/build_guide/build_guide_image_hard/Mooose_%E3%83%88%E3%83%A9%E3%83%9C%E7%AD%90%E4%BD%93%E3%83%99%E3%83%BC%E3%82%B9%E8%A1%A8.jpg)
+![ ](./build_guide_image_hard/Mooose_トラボ筐体ベース表.jpg)
 
 トラックボールが乗る筐体部分はさらにこの上からねじ止めします。  
 こちらも穴が4か所ありますが、2か所止めれば十分止まると思います。  
-![ ](https://github.com/ataruno/Mooose/blob/main/build_guide/build_guide_image_hard/Mooose_%E3%83%88%E3%83%A9%E3%83%9C%E7%AD%90%E4%BD%931.jpg)
-![ ](https://github.com/ataruno/Mooose/blob/main/build_guide/build_guide_image_hard/Mooose_%E3%83%88%E3%83%A9%E3%83%9C%E7%AD%90%E4%BD%932.jpg)
+![ ](./build_guide_image_hard/Mooose_トラボ筐体1.jpg)
+![ ](./build_guide_image_hard/Mooose_トラボ筐体2.jpg)
 
 ### ケース
 ボトムケースにはんだ付けした基板をはめます。  
 マウント方法はネジ止めと耐震シートを引く方法の2種類があります。  
 ねじ止めするときは以下。
-![ ](https://github.com/ataruno/Mooose/blob/main/build_guide/build_guide_image_hard/Mooose_%E3%83%9E%E3%82%A6%E3%83%B3%E3%83%88_%E3%81%AD%E3%81%98%E6%AD%A2%E3%82%81.jpg)
+![ ](./build_guide_image_hard/Mooose_マウント_ねじ止め.jpg)
 
 耐震シートを引く方法は以下。  
 耐震シートをサイズに合わせてハサミで切って貼ります。  
@@ -173,15 +188,19 @@ Mooose、実は光学センサの位置が3か所選べます。
 横から見るとこんな感じになります。TRRSケーブルやUSBの部分に穴が開いています。
 ![ ](https://github.com/ataruno/Mooose/blob/main/build_guide/build_guide_image_hard/Mooose_%E3%83%9E%E3%82%A6%E3%83%B3%E3%83%88_%E6%A8%AA%E3%81%8B%E3%82%89.jpg)
 
-
 ### ロータリーエンコーダノブ
-2パーツに分かれています。
-![ ](https://github.com/ataruno/Mooose/blob/main/build_guide/build_guide_image_hard/%E3%83%AD%E3%83%BC%E3%82%BF%E3%83%AA%E3%83%BC%E3%82%A8%E3%83%B3%E3%82%B3%E3%83%BC%E3%83%80%E3%83%8E%E3%83%961.jpg)
+左手側は2パーツに分かれています。  
+![ ](./build_guide_image_hard/ロータリーエンコーダノブ1.jpg)
 重ねてこの辺りを接着剤などで止めてください。  
 このとき外側パーツと内側パーツの間にすきなものを挟むと、表から見たときにチラ見えします。  
-![ ](https://github.com/ataruno/Mooose/blob/main/build_guide/build_guide_image_hard/%E3%83%AD%E3%83%BC%E3%82%BF%E3%83%AA%E3%83%BC%E3%82%A8%E3%83%B3%E3%82%B3%E3%83%BC%E3%83%80%E3%83%8E%E3%83%962.jpg)
+![ ](./build_guide_image_hard/ロータリーエンコーダノブ2.jpg)
+
 何も挟まなくとも印刷面の違いがあって良い感じです。  
-![ ](https://github.com/ataruno/Mooose/blob/main/build_guide/build_guide_image_hard/%E3%83%AD%E3%83%BC%E3%82%BF%E3%83%AA%E3%83%BC%E3%82%A8%E3%83%B3%E3%82%B3%E3%83%BC%E3%83%80%E3%83%8E%E3%83%963.jpg)
+![ ](./build_guide_image_hard/ロータリーエンコーダノブ3.jpg)
+
+右手側ははめ込むのみです。  
+![ ](./build_guide_image_hard/Mooose_right_RE.jpg)
+
 
 ### 組み立ての完成
 おおよそ以下の形になります。  
