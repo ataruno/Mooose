@@ -37,7 +37,7 @@
 ある程度組み立てた状態で頒布します。  
 ご自身で一度ネジ止めを外してください。  
 
-![ ](https://github.com/ataruno/Mooose/blob/main/build_guide/build_guide_image_hard/01_%E3%82%AD%E3%83%83%E3%83%88%E5%86%85%E5%AE%B9_%E3%82%B1%E3%83%BC%E3%82%B9.jpg)
+![ ](./build_guide_image_hard/01_キット内容_ケース.jpg)
 
 追記(25/3/4)：  
 現在、右手側のロータリーエンコーダのノブもキット内容に含めました。  
@@ -79,7 +79,7 @@
 ### 裏面(はんだ付け前→はんだ付け後)
 左側がはんだ付け前の素の基板、右側がはんだ付け後の基板です。  
 (光学センサのはんだ付け、おおちゃくしています。)  
-![ ](https://github.com/ataruno/Mooose/blob/main/build_guide/build_guide_image_hard/Mooose_%E3%81%AF%E3%82%93%E3%81%A0%E4%BB%98%E3%81%91.jpg)
+![ ](./build_guide_image_hard/Mooose_はんだ付け.jpg)
 
 ### 基板データ画像とPDF
 はんだ付け部分がわかりやすいよう基板データの画像とPDFファイルも置いておきます。  
