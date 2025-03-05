@@ -171,24 +171,27 @@ Mooose、実は光学センサの位置が3か所選べます。
 ### ケース
 ボトムケースにはんだ付けした基板をはめます。  
 マウント方法はネジ止めと耐震シートを引く方法の2種類があります。  
-ねじ止めするときは以下。
+ねじ止めするときは単純にネジでとめてください。
 ![ ](./build_guide_image_hard/Mooose_マウント_ねじ止め.jpg)
 
 耐震シートを引く方法は以下。  
 耐震シートをサイズに合わせてハサミで切って貼ります。  
-![ ](https://github.com/ataruno/Mooose/blob/main/build_guide/build_guide_image_hard/Mooose_%E3%83%9E%E3%82%A6%E3%83%B3%E3%83%88_%E8%80%90%E9%9C%87%E3%82%B7%E3%83%BC%E3%83%881.jpg)
+![ ](./build_guide_image_hard/Mooose_マウント_耐震シート1.jpg)
 んで、載せます。
-![ ](https://github.com/ataruno/Mooose/blob/main/build_guide/build_guide_image_hard/Mooose_%E3%83%9E%E3%82%A6%E3%83%B3%E3%83%88_%E8%80%90%E9%9C%87%E3%82%B7%E3%83%BC%E3%83%882.jpg)
+![ ](./build_guide_image_hard/Mooose_マウント_耐震シート2.jpg)
+
 ちなみに耐震シートは100円均一とかで変えるこういうやつ。  
-![ ](https://github.com/ataruno/Mooose/blob/main/build_guide/build_guide_image_hard/Mooose_%E3%83%9E%E3%82%A6%E3%83%B3%E3%83%88_%E8%80%90%E9%9C%87%E3%82%B7%E3%83%BC%E3%83%880.jpg)
+![ ](./build_guide_image_hard/Mooose_マウント_耐震シート0.jpg)
 
 ねじ止めでも耐震シート貼る方法でもマウント箇所は６か所。  
 さらに上から筐体を被せて7か所背面からねじ止めします(ボトムケースとトップケース)。  
-![ ](https://github.com/ataruno/Mooose/blob/main/build_guide/build_guide_image_hard/Mooose_%E3%83%9E%E3%82%A6%E3%83%B3%E3%83%88%E7%AE%87%E6%89%80.jpg)
-横から見るとこんな感じになります。TRRSケーブルやUSBの部分に穴が開いています。
-![ ](https://github.com/ataruno/Mooose/blob/main/build_guide/build_guide_image_hard/Mooose_%E3%83%9E%E3%82%A6%E3%83%B3%E3%83%88_%E6%A8%AA%E3%81%8B%E3%82%89.jpg)
+![ ](./build_guide_image_hard/Mooose_マウント箇所.jpg)
+横から見るとこんな感じになります。TRRSケーブルやUSBの部分に穴が開いています。  
+![ ](./build_guide_image_hard/Mooose_マウント_横から.jpg)
 
 ### ロータリーエンコーダノブ
+ロータリーエンコーダは軸の形状がD型を想定しています。  
+購入するときはご注意を。  
 左手側は2パーツに分かれています。  
 ![ ](./build_guide_image_hard/ロータリーエンコーダノブ1.jpg)
 重ねてこの辺りを接着剤などで止めてください。  
@@ -204,7 +207,7 @@ Mooose、実は光学センサの位置が3か所選べます。
 
 ### 組み立ての完成
 おおよそ以下の形になります。  
-![ ](https://github.com/ataruno/Mooose/blob/main/image/Mooose_1.jpg)
+![ ](./build_guide_image_hard/Mooose_1.jpg)
 
 ## 部品について
 家庭用の3Dプリンターで製造しているため、製造にばらつきがあります。ご了承ください。  
@@ -217,55 +220,56 @@ Githubにあるhexファイルをダウンロードしてください。
 **デフォルトのファームウェアは右手側にUSB接続をするようになっています。(右手側がマスターの意味)**  
 追記：左手側をマスターとした"Mooose_MasterLeft"というファームウェアも追加しました。  
 [hexファイル(Remap)](https://remap-keys.app/catalog/MlyqSV68nIYDRLw4srxW/firmware)
-
-![ ](https://github.com/ataruno/Mooose/blob/main/build_guide/build_guide_image_remap/52_hex%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB%E3%81%AE%E3%83%80%E3%82%A6%E3%83%B3%E3%83%AD%E3%83%BC%E3%83%89.jpg)
+![ ](./build_guide_image_remap/52_hexファイルのダウンロード.jpg)
 
 ### hexファイルの書き込み
 以下ではRemapでのプログラム書き込みを説明します。  
 その他の書き込み手段としては、Pro Micro Web UpdaterやQMK Toolboxでも可能です。  
 (ブラウザはChrome、Edgeで書き込みできることを確認済です。)  
+![ ](./build_guide_image_remap/53_hexファイルの書き込み1.jpg)
 
 Remap右上のアイコンをクリックしてください。  
-![ ](https://github.com/ataruno/Mooose/blob/main/build_guide/build_guide_image_remap/53_hex%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB%E3%81%AE%E6%9B%B8%E3%81%8D%E8%BE%BC%E3%81%BF1.jpg)
+
 
 "Upload Firmware"のポップアップがでます。  
 先ほどダウンロードしたhexファイルをドラッグ・アンド・ドロップしてください。  
-![ ](https://github.com/ataruno/Mooose/blob/main/build_guide/build_guide_image_remap/53_hex%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB%E3%81%AE%E6%9B%B8%E3%81%8D%E8%BE%BC%E3%81%BF2.jpg)
+![ ](./build_guide_image_remap/53_hexファイルの書き込み2.jpg)
 
 キーボードとPCをUSBケーブルで接続してください。  
 Bootloaderはcaterinaを選択し、FLASHをクリック。
-![ ](https://github.com/ataruno/Mooose/blob/main/build_guide/build_guide_image_remap/53_hex%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB%E3%81%AE%E6%9B%B8%E3%81%8D%E8%BE%BC%E3%81%BF3.jpg)
+![ ](./build_guide_image_remap/53_hexファイルの書き込み3.jpg)
 
 シリアルポートへの接続要求のポップアップが出ます。  
 この状態で接続したキーボードのリセットスイッチ(promicroをリセット)を押してください。  
-![ ](https://github.com/ataruno/Mooose/blob/main/build_guide/build_guide_image_remap/53_hex%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB%E3%81%AE%E6%9B%B8%E3%81%8D%E8%BE%BC%E3%81%BF4.jpg)
+い![ ](./build_guide_image_remap/53_hexファイルの書き込み4.jpg)
 
 リセットスイッチを押すと"Arduino Leonardo"と表示されます。  
 "Arduino Leonardo"を選択し、接続をクリックしてください。  
-![ ](https://github.com/ataruno/Mooose/blob/main/build_guide/build_guide_image_remap/53_hex%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB%E3%81%AE%E6%9B%B8%E3%81%8D%E8%BE%BC%E3%81%BF5.jpg)
+![ ](./build_guide_image_remap/53_hexファイルの書き込み5.jpg)
 
 書き込みが進み"Writing the firmware finished successfuly"となれば完了です。  
 パーセンテージも100%になれば完了です。  
-![ ](https://github.com/ataruno/Mooose/blob/main/build_guide/build_guide_image_remap/53_hex%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB%E3%81%AE%E6%9B%B8%E3%81%8D%E8%BE%BC%E3%81%BF6.jpg)
+![ ](./build_guide_image_remap/53_hexファイルの書き込み6.jpg)
+
 
 ## キーマップのカスタマイズ設定
 キーマップの設定もRemapを活用できます。  
 
 [Remap](https://remap-keys.app/)へ接続してください。  
-![ ](https://github.com/ataruno/Mooose/blob/main/build_guide/build_guide_image_remap/61_Remap%E3%81%A7%E3%81%AE%E3%82%AB%E3%82%B9%E3%82%BF%E3%83%9E%E3%82%A4%E3%82%BA.jpg)
+![ ](./build_guide_image_remap/61_Remapでのカスタマイズ.jpg)
 
 "+KEYBOARD"をクリックしてください。  
-![ ](https://github.com/ataruno/Mooose/blob/main/build_guide/build_guide_image_remap/62_%E3%82%AD%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89%E3%81%AE%E9%81%B8%E6%8A%9E.jpg)
+![ ](./build_guide_image_remap/62_キーボードの選択.jpg)
 
 接続一覧から"Mooose"を選択し、"接続"をクリックしてください。  
-![ ](https://github.com/ataruno/Mooose/blob/main/build_guide/build_guide_image_remap/63_%E3%82%AD%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89%E3%81%AE%E9%81%B8%E6%8A%9E2.jpg)
+![ ](./build_guide_image_remap/63_キーボードの選択2.jpg)
 
 キーマップの編集が終わったら、右上の"flash"をクリックしてください。  
 下記の例では一か所"A"に変更しています。
-![ ](https://github.com/ataruno/Mooose/blob/main/build_guide/build_guide_image_remap/64_%E3%82%AD%E3%83%BC%E3%83%9E%E3%83%83%E3%83%97%E3%81%AE%E5%A4%89%E6%9B%B41.jpg)
+![ ](./build_guide_image_remap/64_キーマップの変更1.jpg)
 
 右上が"SUCCESS"になればキーマップの書き換え完了です。  
-![ ](https://github.com/ataruno/Mooose/blob/main/build_guide/build_guide_image_remap/64_%E3%82%AD%E3%83%BC%E3%83%9E%E3%83%83%E3%83%97%E3%81%AE%E5%A4%89%E6%9B%B42.jpg)
+![ ](./build_guide_image_remap/64_キーマップの変更2.jpg)
 
 ## Userキーについて
 Moooseのデフォルトファームウェアには独自の設定キー/マクロキーが存在しています。  
@@ -273,23 +277,23 @@ Moooseのデフォルトファームウェアには独自の設定キー/マク�
 ### 前提
 前提としてMicrosoft IMEで"変換"でIME-オン、"無変換"でIME-オフに設定しています。  
 (全角入力/半角入力の切替を変換,無変換キーに割り当てるという意味です。)  
-![ ](https://github.com/ataruno/Mooose/blob/main/build_guide/build_guide_image_remap/IME.png)
+![ ](./build_guide_image_remap/IME.png)
 
 ### Remap画面で内容のご紹介
 Remap上では「User**」の表示で表されます。Remapの画面で解説をしていきます。  
 レイヤー0  
-![ ](https://github.com/ataruno/Mooose/blob/main/build_guide/build_guide_image_remap/User%E3%82%AD%E3%83%BC%E8%A8%AD%E5%AE%9A1.JPG)
+![ ](./build_guide_image_remap/Userキー設定1.JPG)
 レイヤー1  
-![ ](https://github.com/ataruno/Mooose/blob/main/build_guide/build_guide_image_remap/User%E3%82%AD%E3%83%BC%E8%A8%AD%E5%AE%9A2.JPG)
+![ ](./build_guide_image_remap/Userキー設定2.JPG)
 レイヤー2  
-![ ](https://github.com/ataruno/Mooose/blob/main/build_guide/build_guide_image_remap/User%E3%82%AD%E3%83%BC%E8%A8%AD%E5%AE%9A3.JPG)
+![ ](./build_guide_image_remap/Userキー設定3.JPG)
 レイヤー3  
-![ ](https://github.com/ataruno/Mooose/blob/main/build_guide/build_guide_image_remap/User%E3%82%AD%E3%83%BC%E8%A8%AD%E5%AE%9A4.JPG)
+![ ](./build_guide_image_remap/Userキー設定4.JPG)
 レイヤー4  
-![ ](https://github.com/ataruno/Mooose/blob/main/build_guide/build_guide_image_remap/User%E3%82%AD%E3%83%BC%E8%A8%AD%E5%AE%9A5.JPG)
+![ ](./build_guide_image_remap/Userキー設定5.JPG)
 
 ※Remap上では設定したいキーをクリック"User"と入れると候補が出てきます。  
-![ ](https://github.com/ataruno/Mooose/blob/main/build_guide/build_guide_image_remap/User%E3%82%AD%E3%83%BC%E8%A8%AD%E5%AE%9A6.png)
+![ ](./build_guide_image_remap/Userキー設定6.png)
 
 ### Userキー一覧
 #### レイヤー＆トラボ操作系
@@ -321,7 +325,7 @@ User15:トラボ角度のリセット。(デフォルト値へ戻る)
 プログラム的には以下のようにkeymap.cのswitch (keycode)、caseで定義しています。  
 case文の頭から順に、RemapではUser0,User1…という表示になるようです。  
 https://github.com/ataruno/Mooose/blob/main/qmk_keyboard_code/keymaps/via/keymap.c  
-![ ](https://github.com/ataruno/Mooose/blob/main/build_guide/build_guide_image_remap/%E3%82%BD%E3%83%BC%E3%82%B9%E3%82%B3%E3%83%BC%E3%83%89%E8%A9%B2%E5%BD%93%E7%AE%87%E6%89%80.png)
+![ ](./build_guide_image_remap/ソースコード該当箇所.png)
 
 ## Moooseのケース設計をしてみたい方へ
 基板の3Dデータの一部を公開しています。  
