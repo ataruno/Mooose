@@ -8,7 +8,9 @@
 - [プログラム書き込み(Remap)](#プログラム書き込みremap)
 - [キーマップのカスタマイズ設定](#キーマップのカスタマイズ設定)
 - [Userキーについて](#userキーについて)
-- [補足](#補足)
+- [補足:build\_guideの参考情報](#補足build_guideの参考情報)
+- [補足:Moooseのケース設計をしてみたい方へ](#補足moooseのケース設計をしてみたい方へ)
+- [補足:あれ？動かないな？ってときの確認表](#補足あれ動かないなってときの確認表)
 - [おわりに](#おわりに)
 
 
@@ -349,17 +351,16 @@ case文の頭から順に、RemapではUser0,User1…という表示になるよ
 https://github.com/ataruno/Mooose/blob/main/qmk_keyboard_code/keymaps/via/keymap.c  
 ![ ](./build_guide_image_remap/ソースコード該当箇所.png)
 
-## 補足
-### build_guideの参考情報
+## 補足:build_guideの参考情報
 * 不備情報  
 * 改良した内容  
 などを載せています。  
 
-### Moooseのケース設計をしてみたい方へ
+## 補足:Moooseのケース設計をしてみたい方へ
 基板の3Dデータの一部を公開しています。  
 https://github.com/ataruno/Mooose/blob/main/forCaseDesign/forCaseDesign.md
 
-### あれ？動かないな？ってときの確認表
+## 補足:あれ？動かないな？ってときの確認表
 動かないぞ？となった際に確認すべき点をまとめてみました。
 随時更新します。困った際は一度のぞいてみてください。
 
