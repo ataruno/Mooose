@@ -363,6 +363,7 @@ https://github.com/ataruno/Mooose/blob/main/forCaseDesign/forCaseDesign.md
 ## 補足:あれ？動かないな？ってときの確認表
 動かないぞ？となった際に確認すべき点をまとめてみました。
 随時更新します。困った際は一度のぞいてみてください。
+https://github.com/ataruno/Mooose/blob/main/build_guide/build_guide_QA.md
 
 
 ## おわりに
