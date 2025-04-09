@@ -218,28 +218,25 @@ Mooose、実は光学センサの位置が3か所選べます。
 ご理解のほどよろしくお願いいたします  
 
 ## プログラム書き込み(Remap)
-### hexファイルのダウンロード
-Githubにあるhexファイルをダウンロードしてください。  
+### Remapへアクセス
+Remapの[Moooseのファームウェアページ](https://remap-keys.app/catalog/MlyqSV68nIYDRLw4srxW/firmware)へアクセスします。
+(ブラウザはChromeとEdgeで書き込みできることを確認済です。)  
+
+### 書き込み
+あらかじめ、キーボードとPCをUSBケーブルで接続してください。  
+
+書き込みたい対象のファームウェアの"書き込み"をクリックします。  
+※ファームウェアは**左右のマイコンそれぞれに同じファームウェア**を書き込んでください。  
+
 **デフォルトのファームウェアは右手側にUSB接続をするようになっています。(右手側がマスターの意味)**  
 追記：左手側をマスターとした"Mooose_MasterLeft"というファームウェアも追加しました。  
-[hexファイル(Remap)](https://remap-keys.app/catalog/MlyqSV68nIYDRLw4srxW/firmware)
-![ ](./build_guide_image_remap/52_hexファイルのダウンロード.jpg)
-
-### hexファイルの書き込み
-以下ではRemapでのプログラム書き込みを説明します。  
-その他の書き込み手段としては、Pro Micro Web UpdaterやQMK Toolboxでも可能です。  
-(ブラウザはChrome、Edgeで書き込みできることを確認済です。)  
-![ ](./build_guide_image_remap/53_hexファイルの書き込み1.jpg)
-
-Remap右上のアイコンをクリックしてください。  
+追記：右手側マスター限定ですが、トラボスクロールの感度を調整した"mooose_Scroll2_Right"を追加しました。  
 
 
-"Upload Firmware"のポップアップがでます。  
-先ほどダウンロードしたhexファイルをドラッグ・アンド・ドロップしてください。  
-![ ](./build_guide_image_remap/53_hexファイルの書き込み2.jpg)
+![ ](./build_guide_image_remap/53_hexファイルの書き込み7.png)
 
-キーボードとPCをUSBケーブルで接続してください。  
-Bootloaderはcaterinaを選択し、FLASHをクリック。
+Bootloaderはcaterinaを選択し、FLASHをクリック。  
+(日本語表記の場合は"書き込み"をクリック)
 ![ ](./build_guide_image_remap/53_hexファイルの書き込み3.jpg)
 
 シリアルポートへの接続要求のポップアップが出ます。  
@@ -254,6 +251,28 @@ Bootloaderはcaterinaを選択し、FLASHをクリック。
 パーセンテージも100%になれば完了です。  
 ![ ](./build_guide_image_remap/53_hexファイルの書き込み6.jpg)
 
+
+### 書き込み方法について別方法の紹介
+上記の方法で問題なく書き込めていたら、"※別方法の紹介"と記載した部分は読み飛ばしても大丈夫です。  
+
+#### hexファイルのダウンロード(※別方法の紹介)
+Githubにあるhexファイルをダウンロードすることも可能です。  
+[hexファイル(Remap)](https://remap-keys.app/catalog/MlyqSV68nIYDRLw4srxW/firmware)  
+
+![ ](./build_guide_image_remap/52_hexファイルのダウンロード.jpg)
+
+#### hexファイルの書き込み(※別方法の紹介)
+ダウンロードしたファイルを用いたRemapでのプログラム書き込み方法です。  
+その他の書き込み手段としては、Pro Micro Web UpdaterやQMK Toolboxでも可能です。  
+![ ](./build_guide_image_remap/53_hexファイルの書き込み1.jpg)
+
+Remap右上のアイコンをクリックしてください。  
+
+"Upload Firmware"のポップアップがでます。  
+先ほどダウンロードしたhexファイルをドラッグ・アンド・ドロップしてください。  
+![ ](./build_guide_image_remap/53_hexファイルの書き込み2.jpg)
+
+以降は先に説明した「Bootloaderはcaterinaを選択し、FLASHをクリック。」から続けてください。
 
 ## キーマップのカスタマイズ設定
 キーマップの設定もRemapを活用できます。  
@@ -340,8 +359,14 @@ https://github.com/ataruno/Mooose/blob/main/qmk_keyboard_code/keymaps/via/keymap
 基板の3Dデータの一部を公開しています。  
 https://github.com/ataruno/Mooose/blob/main/forCaseDesign/forCaseDesign.md
 
+### あれ？動かないな？ってときの確認表
+動かないぞ？となった際に確認すべき点をまとめてみました。
+随時更新します。困った際は一度のぞいてみてください。
+
+
 ## おわりに
-わからない点、不備などあればXのDMなどでご連絡ください。  
+わからない点、不備などあればまずはBoothのメッセージ機能でご連絡ください。  
+Xのリプライ/DMなどでも構いません。  
 キーボード頒布が初めてな点、家庭用の3Dプリンターでの製造であること、個人開発品である点をご了承ください。  
 よき自作キーボードライフを！  
 
