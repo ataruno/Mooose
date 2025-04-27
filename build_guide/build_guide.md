@@ -61,7 +61,7 @@
 | 表面実装ダイオード(1N4148W) | 70個            | https://shop.yushakobo.jp/products/a0800di-02-100?variant=37665574420641 |
 | キースイッチ(MX互換)        | 70個            | ※ロープロファイルは未対応です。 |
 | promicro(※2)       | 左右それぞれ1個 | ・https://shop.yushakobo.jp/products/21<br>or<br>・https://shop.yushakobo.jp/products/pro-micro |
-| ロータリーエンコーダ<br>(軸形状:Dカット)  | 任意            | https://shop.yushakobo.jp/products/3762?variant=42672275292391 |
+| ロータリーエンコーダ<br>(軸形状:Dカット、高さ20mm or 22.5mm)  | 任意            | https://shop.yushakobo.jp/products/3762?variant=42672275292391 |
 
 ※1:タクタイルスイッチ - 2pin 3.5x6x4.3mm  
 ※2:
@@ -71,6 +71,7 @@ Type-Cは少し基板が大きいとのこと。基板をねじ止め固定仕�
   なしを選択した方はご自身でご準備ください。  
   **黒玉だと反応が悪いため、赤玉をご準備ください。**  
   (ただ、当面はボールありを優先して用意します。ボール無しで欲しい方Boothなどでメッセージいただけましたら用意します。)  
+※ロータリーエンコーダ背が低い17.5mmだと押込みクリックが効かない場合があります。
 
 ## はんだ付け
 ### 裏面(はんだ付け前→はんだ付け後)
