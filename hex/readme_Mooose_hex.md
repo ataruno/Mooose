@@ -17,6 +17,15 @@
 * トラックボール:右手  
 * トラボ操作によるスクロール改良版  
 
+## mooose_via_Scroll2_cpi***.hex
+* remap対応  
+* Master=USB接続:右手  
+* トラックボール:右手  
+* トラボ操作によるスクロール改良版  
+* トラボ感度違いのファイルです。  
+  * デフォルトファイルが一番感度が高く、cpiの値が小さくなるほど感度が低くなります。  
+
+
 ## mooose_via_Scroll2_ML_LeftTB
 * remap対応  
 * Master=USB接続:左手  
